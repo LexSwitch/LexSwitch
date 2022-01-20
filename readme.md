@@ -57,14 +57,15 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
- [<img align="left" alt="![Alexander's GitHub stats]" src="(https://github-readme-stats.vercel.app/api?username=lexswitch&show_icons=true&hide_border=true&theme=radical)" />]
+
+  <img align="left" alt="Alexander's GitHub Stats" src="https://github-readme-stats.LexSwitch.vercel.app/api?username=LexSwitch&show_icons=true&hide_border=true" />
 
 </details>
 
 ---
 <details>
 <summary>zap: Top Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexswitch&layout=compact)](https://github.com/lexswitch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexSwitch&layout=compact)](https://github.com/LexSwitch/github-readme-stats)
 </details>
 
 
