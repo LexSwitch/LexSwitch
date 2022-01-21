@@ -37,15 +37,14 @@
 ---
 
 ### Language Bar:
-<br>
+<br />
 
   
 
   <img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]() -->
+ 
 
-<br/>
-<br/>
+<br />
 
 ---
 ### Github Stats:
