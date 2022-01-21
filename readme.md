@@ -46,8 +46,7 @@
 <details>
   <summary>:zap: Language Bar</summary>
 
-  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LexSwitch&show_icons=true&theme=radical" />
-  <img align="left" alt="Languages Used" src="https://github.com/LexSwitch/github-readme-stats">
+  <img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]() -->
 
 </details>
