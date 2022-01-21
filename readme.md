@@ -36,15 +36,22 @@
 
 ---
 
-
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LexSwitch&show_icons=true&theme=radical" />
 
 </details>
+
+<details>
+  <summary>:zap: Language Bar</summary>
+
+  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LexSwitch&show_icons=true&theme=radical" />
+  <img align="left" alt="Languages Used" src="https://github.com/LexSwitch/github-readme-stats">
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]() -->
+
+</details>
+
 
 [twitter]: https://twitter.com/lex_switch
 [instagram]: https://instagram.com/lex_switch
