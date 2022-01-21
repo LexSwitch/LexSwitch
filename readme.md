@@ -47,7 +47,7 @@
 <br />
 
 ---
-### Github Stats:
+
 
   <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LexSwitch&show_icons=true&theme=radical" />
 
