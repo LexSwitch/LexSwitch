@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Lex_Switch?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flex_switch&screen_name=Lex_Switch)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LexSwitch.visitor-badge&left_color=red&right_color=green&left_text=Number%20of%20Visitors)
+
 ## I want to do everything!!
 - 🌱 I’m currently learning web development and flutter 🤣
 - 👯 I’m looking to collaborate with other developers
