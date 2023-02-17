@@ -7,8 +7,8 @@
 ## I want to do everything!!
 - 🌱 I’m currently learning web development and flutter 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Build more projects
-- ⚡ Fun fact: I love to play games and watch movies
+- 🥅 2023 Goals: Build more projects
+- ⚡ Fun fact: I love to play COD and watch movies
 
 ### Connect with me:
 
